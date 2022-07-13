@@ -5,11 +5,11 @@ For each collection there is a schema.
 I have created schema for only dummy collections for demo purpose, so you can think of a real collection that will be required for the tpp database and then add schemas according to fields (keys in python dictionary).
 
 # Installation requirements to get the scripts running
-Install MongoDB as per your system: \
-      Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.\
-      Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.\
-      Click [here](https://www.mongodb.com/docs/manual/administration/install-on-linux/) and follow the instructions for linux systems.
+*Install MongoDB as per your system: *\
+      *Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.\
+      *Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.\
+      *Click [here](https://www.mongodb.com/docs/manual/administration/install-on-linux/) and follow the instructions for linux systems.
       
       
-Install pymongo:\
-    Click [here](https://pymongo.readthedocs.io/en/stable/installation.html) and follow the instructions.
+*Install pymongo:*\
+    *Click [here](https://pymongo.readthedocs.io/en/stable/installation.html) and follow the instructions.
