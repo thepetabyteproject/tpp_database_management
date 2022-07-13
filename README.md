@@ -5,7 +5,7 @@ For each collection there is a schema.
 I have created schema for only dummy collections for demo purpose, so you can think of a real collection that will be required for the tpp database and then add schemas according to fields (keys in python dictionary).
 
 # Installation requirements to get the scripts running
-You will need to have python installed in your system.
+**You will need to have python installed in your system.**
 ## Install MongoDB as per your system:
 - Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.
 - Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.
