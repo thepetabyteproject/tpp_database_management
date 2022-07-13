@@ -10,6 +10,8 @@ I have created schema for only dummy collections for demo purpose, so you can th
 - Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.
 - Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.
 - Click [here](https://www.mongodb.com/docs/manual/administration/install-on-linux/) and follow the instructions for linux systems.
+
+**After installation is complete you will need to run MongoDB in your system. Follow instructions to run MongoDB provided in the links above after the instructions for installation.**
       
       
 ## Install pymongo:
