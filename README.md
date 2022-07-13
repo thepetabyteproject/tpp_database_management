@@ -6,8 +6,8 @@ I have created schema for only dummy collections for demo purpose, so you can th
 
 # Installation requirements to get the scripts running
 ## Install MongoDB as per your system:
-- Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.\
-- Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.\
+- Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for windows.
+- Click [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) and follow the instructions for macOS.
 - Click [here](https://www.mongodb.com/docs/manual/administration/install-on-linux/) and follow the instructions for linux systems.
       
       
